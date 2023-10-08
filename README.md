@@ -1,3 +1,3 @@
-# node_webquiz
+# Quiz using NodeJS
 
 this project was develop using MERN stack.
